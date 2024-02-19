@@ -1,4 +1,4 @@
-# Network/Transport Protocols on Wireshark
+# Network Protocols on Wireshark
 <p align="center">
 
 </p>
@@ -48,6 +48,9 @@
  - <h1>Remote Desktop Protocol(RDP) traffic</h1>
 
    <a href="https://imgur.com/npqx3M7"><img src="https://i.imgur.com//npqx3M7.png" title="source: imgur.com" /></a>
+
+- In this project i have learned how different Network Protocols operate along with Communication protocols and Transport protocols with their respective port numbers, tool Wireshark is very helpful to monitor traffic by capturing 
+  packets(pcap) for analysis of any suspecious communication or intrusion attempts.
  
  
 
